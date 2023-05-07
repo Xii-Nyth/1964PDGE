@@ -1,10 +1,7 @@
-# 1964 GEPD Edition
+# 1964 PDGE Edition
 
-* https://github.com/Graslu/1964GEPD/releases
+* https://github.com/Xii-Nyth/1964PDGE/releases
 
-1964 0.8.5, modified for use with the Mouse Injector for GE/PD
-
-Please note: The only games that benefit from this branch are GoldenEye 007 and Perfect Dark for Nintendo 64. Any other game will have negative or no impact at all. ROM files not included.
 
 # Copyright
 1964 is Copyright (c) 1999-2002 Joel Middendorf
